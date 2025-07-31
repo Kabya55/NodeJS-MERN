@@ -4,4 +4,3 @@ debugger;
 function anotherFunction() {
   console.log("This is another function");
 }
-anotherFunction();
